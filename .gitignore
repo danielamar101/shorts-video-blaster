@@ -1,0 +1,13 @@
+__pycache__
+.envrc
+.vscode
+images/
+PPT.pptx
+videos/*.mp4
+audio/*.mp3
+clipped/
+done/*.mp4
+**/*/chromedriver
+**/*/utilities/cookies.json
+done/*
+generations/*.mp4

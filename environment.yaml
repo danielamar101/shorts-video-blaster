@@ -1,0 +1,4 @@
+name: shorts-vids-stacker
+dependencies:
+  - python=3.11
+

@@ -1,0 +1,13 @@
+openai
+python_pptx
+google_images_search
+pdf2image
+python-pptx
+openai
+requests
+google-api-python-client
+pydub
+opency-python
+selenium
+random2==1.0.1
+moviepy==1.0.3

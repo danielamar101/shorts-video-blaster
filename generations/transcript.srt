@@ -1,0 +1,640 @@
+1
+00:00:0,000 --> 00:00:0,639
+IM<font color="#FF0000">A</font>GINE A
+
+2
+00:00:0,639 --> 00:00:0,819
+<font color="#FF0000">WORLD</font>
+
+3
+00:00:0,819 --> 00:00:1,379
+WHERE <font color="#FF0000">EVERYONE</font>
+
+4
+00:00:1,379 --> 00:00:2,039
+<font color="#FF0000">IS</font> KIND
+
+5
+00:00:2,619 --> 00:00:3,259
+HELPFUL <font color="#FF0000">AND</font>
+
+6
+00:00:3,259 --> 00:00:3,779
+<font color="#FF0000">UNDERSTANDING</font>
+
+7
+00:00:4,599 --> 00:00:4,739
+<font color="#FF0000">NOW</font>
+
+8
+00:00:4,739 --> 00:00:4,920
+<font color="#FF0000">HOLD</font>
+
+9
+00:00:4,920 --> 00:00:5,219
+<font color="#FF0000">ON</font> TO
+
+10
+00:00:5,219 --> 00:00:5,440
+<font color="#FF0000">THAT</font>
+
+11
+00:00:5,440 --> 00:00:5,659
+<font color="#FF0000">THOUGHT</font>
+
+12
+00:00:5,659 --> 00:00:6,079
+AS <font color="#FF0000">I</font>
+
+13
+00:00:6,079 --> 00:00:6,340
+SHARE <font color="#FF0000">WITH</font>
+
+14
+00:00:6,340 --> 00:00:6,400
+<font color="#FF0000">YOU</font>
+
+15
+00:00:6,400 --> 00:00:6,639
+<font color="#FF0000">A</font>
+
+16
+00:00:6,639 --> 00:00:7,360
+PROFOUND <font color="#FF0000">SAYING</font>
+
+17
+00:00:8,420 --> 00:00:8,680
+<font color="#FF0000">BE</font> THE
+
+18
+00:00:8,680 --> 00:00:9,319
+CHANGE <font color="#FF0000">THAT</font>
+
+19
+00:00:9,319 --> 00:00:9,560
+<font color="#FF0000">YOU</font> WISH
+
+20
+00:00:9,560 --> 00:00:9,920
+<font color="#FF0000">TO</font> SEE
+
+21
+00:00:9,920 --> 00:00:10,079
+<font color="#FF0000">IN</font>
+
+22
+00:00:10,079 --> 00:00:10,220
+<font color="#FF0000">THE</font>
+
+23
+00:00:10,220 --> 00:00:11,479
+WORLD <font color="#FF0000">THESE</font>
+
+24
+00:00:11,479 --> 00:00:11,859
+<font color="#FF0000">WISE</font>
+
+25
+00:00:11,859 --> 00:00:12,020
+<font color="#FF0000">WORDS</font>
+
+26
+00:00:12,020 --> 00:00:12,300
+<font color="#FF0000">WERE</font>
+
+27
+00:00:12,300 --> 00:00:12,479
+<font color="#FF0000">SPOKEN</font>
+
+28
+00:00:12,479 --> 00:00:13,140
+<font color="#FF0000">BY</font> MAHATMA
+
+29
+00:00:13,140 --> 00:00:13,460
+<font color="#FF0000">GANDHI</font>
+
+30
+00:00:13,939 --> 00:00:14,239
+<font color="#FF0000">A</font> MAN
+
+31
+00:00:14,239 --> 00:00:14,460
+<font color="#FF0000">WHO</font>
+
+32
+00:00:14,460 --> 00:00:14,619
+<font color="#FF0000">LED</font>
+
+33
+00:00:14,619 --> 00:00:14,920
+<font color="#FF0000">WITH</font>
+
+34
+00:00:14,920 --> 00:00:15,460
+PEACE <font color="#FF0000">AND</font>
+
+35
+00:00:15,460 --> 00:00:16,059
+ENCOURAGED <font color="#FF0000">US</font>
+
+36
+00:00:16,059 --> 00:00:16,180
+<font color="#FF0000">TO</font>
+
+37
+00:00:16,180 --> 00:00:16,399
+BE <font color="#FF0000">THE</font>
+
+38
+00:00:16,399 --> 00:00:17,020
+VERY <font color="#FF0000">BEST</font>
+
+39
+00:00:17,020 --> 00:00:17,340
+<font color="#FF0000">VERSIONS</font>
+
+40
+00:00:17,340 --> 00:00:18,059
+OF <font color="#FF0000">OURSELVES</font>
+
+41
+00:00:18,299 --> 00:00:19,340
+<font color="#FF0000">BUT</font> WHAT
+
+42
+00:00:19,340 --> 00:00:19,479
+<font color="#FF0000">DOES</font>
+
+43
+00:00:19,479 --> 00:00:19,659
+<font color="#FF0000">IT</font>
+
+44
+00:00:19,659 --> 00:00:19,920
+<font color="#FF0000">MEAN</font>
+
+45
+00:00:20,100 --> 00:00:21,399
+<font color="#FF0000">WELL</font> IMAGINE
+
+46
+00:00:21,399 --> 00:00:21,559
+<font color="#FF0000">YOU</font>
+
+47
+00:00:21,559 --> 00:00:21,860
+<font color="#FF0000">HAVE</font> A
+
+48
+00:00:21,860 --> 00:00:22,299
+TOY <font color="#FF0000">BOX</font>
+
+49
+00:00:22,299 --> 00:00:22,540
+<font color="#FF0000">FILLED</font>
+
+50
+00:00:22,540 --> 00:00:22,799
+<font color="#FF0000">WITH</font>
+
+51
+00:00:22,799 --> 00:00:23,319
+ALL <font color="#FF0000">SORTS</font>
+
+52
+00:00:23,319 --> 00:00:23,860
+<font color="#FF0000">OF</font>
+
+53
+00:00:23,860 --> 00:00:23,860
+<font color="#FF0000">TOYS</font>
+
+54
+00:00:24,020 --> 00:00:24,379
+<font color="#FF0000">BUT</font>
+
+55
+00:00:24,379 --> 00:00:24,600
+<font color="#FF0000">EVERY</font>
+
+56
+00:00:24,600 --> 00:00:24,959
+<font color="#FF0000">TIME</font> YOU
+
+57
+00:00:24,959 --> 00:00:25,139
+<font color="#FF0000">WALK</font>
+
+58
+00:00:25,139 --> 00:00:25,479
+<font color="#FF0000">BY</font>
+
+59
+00:00:25,739 --> 00:00:25,899
+<font color="#FF0000">YOU</font>
+
+60
+00:00:25,899 --> 00:00:26,020
+<font color="#FF0000">SEE</font>
+
+61
+00:00:26,020 --> 00:00:26,579
+<font color="#FF0000">IT'S</font>
+
+62
+00:00:26,579 --> 00:00:27,360
+<font color="#FF0000">MESSY</font> WITH
+
+63
+00:00:27,360 --> 00:00:27,940
+<font color="#FF0000">TOYS</font> EVERYWHERE
+
+64
+00:00:28,659 --> 00:00:29,680
+<font color="#FF0000">NOW</font> YOU
+
+65
+00:00:29,680 --> 00:00:29,840
+<font color="#FF0000">WISH</font>
+
+66
+00:00:29,840 --> 00:00:30,219
+IT <font color="#FF0000">WAS</font>
+
+67
+00:00:30,219 --> 00:00:31,079
+<font color="#FF0000">TIDY</font> RIGHT
+
+68
+00:00:32,159 --> 00:00:33,200
+<font color="#FF0000">GANDHI</font> IS
+
+69
+00:00:33,200 --> 00:00:33,200
+<font color="#FF0000">SAYING</font>
+
+70
+00:00:33,619 --> 00:00:33,619
+<font color="#FF0000">INSTEAD</font>
+
+71
+00:00:33,619 --> 00:00:33,840
+<font color="#FF0000">OF</font>
+
+72
+00:00:33,840 --> 00:00:34,380
+JUST <font color="#FF0000">WISHING</font>
+
+73
+00:00:34,720 --> 00:00:34,979
+YOU <font color="#FF0000">SHOULD</font>
+
+74
+00:00:34,979 --> 00:00:35,599
+<font color="#FF0000">START</font> TIDYING
+
+75
+00:00:35,599 --> 00:00:35,959
+IT <font color="#FF0000">UP</font>
+
+76
+00:00:35,959 --> 00:00:37,240
+<font color="#FF0000">YOURSELF</font> BY
+
+77
+00:00:37,240 --> 00:00:37,819
+<font color="#FF0000">DOING</font> SO
+
+78
+00:00:37,919 --> 00:00:38,080
+<font color="#FF0000">YOU'RE</font>
+
+79
+00:00:38,080 --> 00:00:38,819
+<font color="#FF0000">ACTUALLY</font> CREATING
+
+80
+00:00:38,819 --> 00:00:39,040
+<font color="#FF0000">THE</font>
+
+81
+00:00:39,040 --> 00:00:39,340
+<font color="#FF0000">CHANGE</font>
+
+82
+00:00:39,340 --> 00:00:39,639
+<font color="#FF0000">YOU</font> WANT
+
+83
+00:00:39,639 --> 00:00:39,840
+<font color="#FF0000">TO</font>
+
+84
+00:00:39,840 --> 00:00:40,020
+<font color="#FF0000">SEE</font>
+
+85
+00:00:40,299 --> 00:00:40,479
+<font color="#FF0000">A</font>
+
+86
+00:00:40,479 --> 00:00:40,759
+<font color="#FF0000">CLEAN</font>
+
+87
+00:00:40,759 --> 00:00:41,060
+<font color="#FF0000">TOY</font>
+
+88
+00:00:41,060 --> 00:00:42,599
+BOX <font color="#FF0000">IT'S</font>
+
+89
+00:00:42,599 --> 00:00:42,799
+<font color="#FF0000">JUST</font>
+
+90
+00:00:42,799 --> 00:00:43,119
+<font color="#FF0000">LIKE</font> THAT
+
+91
+00:00:43,119 --> 00:00:43,220
+<font color="#FF0000">WITH</font>
+
+92
+00:00:43,220 --> 00:00:43,500
+<font color="#FF0000">THE</font>
+
+93
+00:00:43,500 --> 00:00:44,540
+<font color="#FF0000">WORLD</font> IF
+
+94
+00:00:44,540 --> 00:00:44,680
+<font color="#FF0000">YOU</font>
+
+95
+00:00:44,680 --> 00:00:45,380
+<font color="#FF0000">WANT</font> MORE
+
+96
+00:00:45,380 --> 00:00:45,819
+<font color="#FF0000">KINDNESS</font> START
+
+97
+00:00:45,819 --> 00:00:46,060
+<font color="#FF0000">BY</font>
+
+98
+00:00:46,060 --> 00:00:46,700
+<font color="#FF0000">BEING</font> KIND
+
+99
+00:00:47,400 --> 00:00:47,540
+<font color="#FF0000">IF</font>
+
+100
+00:00:47,540 --> 00:00:47,799
+<font color="#FF0000">YOU</font> WISH
+
+101
+00:00:47,799 --> 00:00:48,000
+<font color="#FF0000">FOR</font>
+
+102
+00:00:48,000 --> 00:00:48,540
+<font color="#FF0000">MORE</font> LAUGHTER
+
+103
+00:00:49,040 --> 00:00:49,040
+<font color="#FF0000">CRACK</font>
+
+104
+00:00:49,040 --> 00:00:49,479
+A <font color="#FF0000">JOKE</font>
+
+105
+00:00:49,479 --> 00:00:49,880
+<font color="#FF0000">AND</font> SPREAD
+
+106
+00:00:49,880 --> 00:00:50,419
+<font color="#FF0000">SOME</font> JOY
+
+107
+00:00:50,860 --> 00:00:51,319
+<font color="#FF0000">IT'S</font>
+
+108
+00:00:51,319 --> 00:00:51,560
+<font color="#FF0000">ABOUT</font>
+
+109
+00:00:51,560 --> 00:00:51,880
+<font color="#FF0000">TAKING</font>
+
+110
+00:00:51,880 --> 00:00:52,779
+<font color="#FF0000">ACTION</font> YOURSELF
+
+111
+00:00:53,080 --> 00:00:53,279
+<font color="#FF0000">NOT</font>
+
+112
+00:00:53,279 --> 00:00:53,520
+<font color="#FF0000">WAITING</font>
+
+113
+00:00:53,520 --> 00:00:53,819
+<font color="#FF0000">FOR</font>
+
+114
+00:00:53,819 --> 00:00:54,080
+<font color="#FF0000">SOMEONE</font>
+
+115
+00:00:54,080 --> 00:00:54,319
+<font color="#FF0000">ELSE</font>
+
+116
+00:00:54,319 --> 00:00:54,500
+<font color="#FF0000">TO</font>
+
+117
+00:00:54,500 --> 00:00:54,900
+<font color="#FF0000">MAKE</font> THINGS
+
+118
+00:00:54,900 --> 00:00:55,259
+<font color="#FF0000">BETTER</font>
+
+119
+00:00:55,840 --> 00:00:56,319
+<font color="#FF0000">SO</font>
+
+120
+00:00:56,319 --> 00:00:57,099
+<font color="#FF0000">REMEMBER</font> YOU
+
+121
+00:00:57,099 --> 00:00:57,459
+HAVE <font color="#FF0000">THE</font>
+
+122
+00:00:57,459 --> 00:00:57,720
+<font color="#FF0000">POWER</font>
+
+123
+00:00:57,720 --> 00:00:58,099
+<font color="#FF0000">TO</font> MAKE
+
+124
+00:00:58,099 --> 00:00:58,340
+<font color="#FF0000">A</font>
+
+125
+00:00:58,340 --> 00:00:59,419
+DIFFERENCE <font color="#FF0000">EVEN</font>
+
+126
+00:00:59,419 --> 00:00:59,779
+WITH <font color="#FF0000">THE</font>
+
+127
+00:00:59,779 --> 00:01:0,439
+SMALLEST <font color="#FF0000">ACTS</font>
+
+128
+00:01:0,439 --> 00:01:1,119
+<font color="#FF0000">OF</font>
+
+129
+00:01:1,119 --> 00:01:1,119
+<font color="#FF0000">KINDNESS</font>
+
+130
+00:01:2,580 --> 00:01:2,759
+<font color="#FF0000">NOW</font>
+
+131
+00:01:2,840 --> 00:01:2,939
+<font color="#FF0000">BEFORE</font>
+
+132
+00:01:2,939 --> 00:01:3,180
+<font color="#FF0000">YOU</font>
+
+133
+00:01:3,180 --> 00:01:3,520
+<font color="#FF0000">GO</font> OUT
+
+134
+00:01:3,520 --> 00:01:3,779
+<font color="#FF0000">AND</font> BE
+
+135
+00:01:3,779 --> 00:01:4,019
+<font color="#FF0000">A</font>
+
+136
+00:01:4,019 --> 00:01:5,019
+<font color="#FF0000">SUPERHERO</font> OF
+
+137
+00:01:5,019 --> 00:01:5,019
+<font color="#FF0000">CHANGE</font>
+
+138
+00:01:5,639 --> 00:01:5,760
+<font color="#FF0000">DON'T</font>
+
+139
+00:01:5,760 --> 00:01:6,080
+<font color="#FF0000">FORGET</font>
+
+140
+00:01:6,739 --> 00:01:6,819
+<font color="#FF0000">IF</font>
+
+141
+00:01:6,819 --> 00:01:7,260
+<font color="#FF0000">YOU</font> ENJOYED
+
+142
+00:01:7,260 --> 00:01:7,480
+<font color="#FF0000">THIS</font>
+
+143
+00:01:7,480 --> 00:01:7,940
+<font color="#FF0000">LITTLE</font>
+
+144
+00:01:7,940 --> 00:01:8,540
+NUGGET <font color="#FF0000">OF</font>
+
+145
+00:01:8,540 --> 00:01:8,540
+<font color="#FF0000">WISDOM</font>
+
+146
+00:01:9,139 --> 00:01:9,440
+SMASH <font color="#FF0000">THAT</font>
+
+147
+00:01:9,440 --> 00:01:9,940
+<font color="#FF0000">LIKE</font> BUTTON
+
+148
+00:01:9,940 --> 00:01:10,099
+<font color="#FF0000">AND</font>
+
+149
+00:01:10,099 --> 00:01:10,639
+HIT <font color="#FF0000">SUBSCRIBE</font>
+
+150
+00:01:10,639 --> 00:01:11,319
+<font color="#FF0000">FOR</font> MORE
+
+151
+00:01:11,319 --> 00:01:12,139
+INSPIRING <font color="#FF0000">SHORTS</font>
+
+152
+00:01:13,000 --> 00:01:13,819
+<font color="#FF0000">TOGETHER</font> LET'S
+
+153
+00:01:13,819 --> 00:01:14,019
+<font color="#FF0000">CREATE</font>
+
+154
+00:01:14,019 --> 00:01:14,480
+A <font color="#FF0000">WAVE</font>
+
+155
+00:01:14,480 --> 00:01:15,099
+<font color="#FF0000">OF</font> POSITIVE
+
+156
+00:01:15,099 --> 00:01:15,639
+<font color="#FF0000">CHANGE</font>
+
+157
+00:01:15,800 --> 00:01:16,199
+<font color="#FF0000">ONE</font> CLICK
+
+158
+00:01:16,199 --> 00:01:16,379
+<font color="#FF0000">AT</font>
+
+159
+00:01:16,379 --> 00:01:16,660
+<font color="#FF0000">A</font>
+
+160
+00:01:16,660 --> 00:01:16,720
+<font color="#FF0000">TIME</font>
+
